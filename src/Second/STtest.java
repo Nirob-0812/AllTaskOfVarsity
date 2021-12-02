@@ -1,8 +1,7 @@
 package Second;
 
 class Student2 {
-    String Name;
-    String Batch;
+    String Name,Batch;
     int Roll;
 
     void getData(String name, String batch, int roll) {
