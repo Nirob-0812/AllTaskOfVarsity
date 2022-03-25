@@ -15,7 +15,7 @@ typedef vector<int> vi;
 #define testcase ll t; cin>>t; while(t--)
 #define getfor(i,n) for(ll i=0;i<n;i++) 
 #define sort_array sort(vi.begin(),vi.end());
-#define inf 99
+#define inf 999999
 #define index 100
 
 int node,edge,u,v,source,value,cnt=0;
