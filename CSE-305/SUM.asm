@@ -7,6 +7,7 @@ MAIN PROC
     
     MOV AX,@DATA
     MOV DS,AX
+    
     MOV BL,A
     MOV CL,B
     ADD CL,BL
