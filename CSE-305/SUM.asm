@@ -9,7 +9,7 @@ MAIN PROC
     MOV DS,AX
     MOV BL,A
     MOV CL,B
-    SUB CL,BL
+    ADD CL,BL
     
     ADD CL,48
     
